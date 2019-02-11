@@ -114,3 +114,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+old_global_ip.txt
+credentials.json
